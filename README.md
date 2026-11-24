@@ -78,8 +78,7 @@ Alongside development, I'm studying **Computer Science** and **Computer Networks
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ian-Almeidaa&show_icons=true&theme=tokyonight&count_private=true" />
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Almeidaa&layout=compact&theme=tokyonight" />
 </p>
 
